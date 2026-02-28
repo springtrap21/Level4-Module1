@@ -5,7 +5,7 @@ package league_token;
  */
 public class LeagueToken {
 	public static void main(String[] args) throws Exception {
-		TokenHacker hacker = new TokenHacker();
-		hacker.hack();
+//		TokenHacker hacker = new TokenHacker();
+//		hacker.hack();
 	}
 }
